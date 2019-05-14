@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/dict/dict.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/result/div_log_1.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/result/example/move.bat" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/result/example/seg/2003-4-16-99671_seg.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/result/example/seg/26-3_seg.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/result/log.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/test_datas/datas/2003-4-16-99671.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/test_datas/datas/[资料]十四届釜山亚运会足球比赛赛程.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/test_datas/extra/2003011600298.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/test_datas/extra/2003011700375.txt" charset="GBK" />
+  </component>
+</project>

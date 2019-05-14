@@ -1,0 +1,24 @@
+亚运会/n  女足赛/j  程/nr  表/Vg  
+甲/Mg  A/n  |/n  甲/n  B/n  |/n  足协杯/nz  |/n  中国/ns  之/u  队/n  |/n  英/j  超/v  |/n  意/Ng  甲/Mg  |/n  德/j  甲/Mg  |/n  西/f  甲/Mg  |/n  法/j  甲/Mg  |/n  荷/j  甲/Mg  |/n  葡/j  甲/Mg  |/n  苏/nr  超/nr  |/n  英/j  甲/Mg  |/n  
+意/j  乙/Mg  |/n  德/j  乙/Mg  |/n  西/f  乙/Mg  |/n  J/n  联赛/n  |/n  比/p  甲/Mg  |/n  瑞/j  超/v  |/n  挪/v  超/v  |/n  芬/j  超/v  |/n  欧洲杯/n  |/n  冠军杯/n  |/n  联盟/n  杯/Ng  |/n  英/j  足/a  总/b  杯/Ng  |/n  
+英/j  联赛/n  杯/Ng  |/n  意大利/ns  杯/Ng  |/n  德国/ns  杯/Ng  |/n  西班牙/ns  杯/Ng  |/n  法国/ns  杯/Ng  |/n  法国/ns  联赛/n  杯/Ng  |/n  亚运会/n  |/n  友谊赛/n  
+亚运会/n  女足/j  小组赛/n  
+主队/n  客队/n  比赛/vn  时间/n  比赛/vn  地点/n  最终/b  比分/n  转播/vn  频道/n  
+韩国/ns  越南/ns  02/m  -/n  10/m  -/n  0216/m  :/n  03/m  昌/j  原/b  4/m  :/n  0/m  
+中国/ns  台北/ns  中华人民共和国/ns  02/m  -/n  10/m  -/n  0216/m  :/n  03/m  釜山/ns  0/m  :/n  1/m  
+日本/ns  朝鲜/ns  共和国/n  02/m  -/n  10/m  -/n  0218/m  :/n  23/m  釜山/ns  0/m  :/n  1/m  
+日本/ns  越南/ns  02/m  -/n  10/m  -/n  0416/m  :/n  03/m  昌/j  原/b  3/m  :/n  0/m  
+中国/ns  台北/ns  韩国/ns  02/m  -/n  10/m  -/n  0416/m  :/n  03/m  阳/Ng  山/n  1/m  :/n  2/m  
+朝鲜/ns  共和国/n  中华人民共和国/ns  02/m  -/n  10/m  -/n  0418/m  :/n  23/m  昌/j  原/b  0/m  :/n  0/m  
+韩国/ns  日本/ns  02/m  -/n  10/m  -/n  0716/m  :/n  03/m  马山/ns  0/m  :/n  1/m  
+中华人民共和国/ns  越南/ns  02/m  -/n  10/m  -/n  0716/m  :/n  03/m  釜山/ns  4/m  :/n  1/m  
+中国/ns  台北/ns  朝鲜/ns  共和国/n  02/m  -/n  10/m  -/n  0718/m  :/n  23/m  马山/ns  0/m  :/n  1/m  
+中国/ns  台北/ns  越南/ns  02/m  -/n  10/m  -/n  0916/m  :/n  03/m  阳/Ng  山/n  1/m  :/n  1/m  
+中华人民共和国/ns  日本/ns  02/m  -/n  10/m  -/n  0916/m  :/n  03/m  昌/j  原/b  2/m  :/n  2/m  
+朝鲜/ns  共和国/n  韩国/ns  02/m  -/n  10/m  -/n  0918/m  :/n  03/m  釜山/ns  2/m  :/n  0/m  
+越南/ns  朝鲜/ns  共和国/n  02/m  -/n  10/m  -/n  1114/m  :/n  03/m  昌/j  原/b  0/m  :/n  4/m  
+中国/ns  台北/ns  日本/ns  02/m  -/n  10/m  -/n  1114/m  :/n  03/m  马山/ns  0/m  :/n  2/m  
+韩国/ns  中华人民共和国/ns  02/m  -/n  10/m  -/n  1116/m  :/n  23/m  昌/j  原/b  0/m  :/n  4/m  
+关于/p  博/Ag  球网/n  |/n  网站/n  导航/vn  |/n  广告/n  服务/vn  |/n  用户/n  服务/vn  |/n  法律/n  申明/v  |/n  联系/vn  方式/n  |/n  本站/r  Logo/n  
+使用/v  本/r  网站/n  必须/d  遵守/v  本/r  网址/n  用户/n  协议/n  如/v  有/v  什么/r  疑问/n  请/v  与/p  webmaster/n  联系/vn  
+Copyright/n  /ns  copy/n  ;/n  2000/m  -/n  2002/m  博/Ag  球网/n  版权所有/a  

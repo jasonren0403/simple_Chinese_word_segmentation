@@ -1,0 +1,1 @@
+total words: 1097 time: 7.76603889465332s  speed: 141.25605278068474 words per second

@@ -1,0 +1,14 @@
+国奥/j  女足/j  征战/v  亚运会/n  
+首/m  页/q  -/n  邮件/n  -/n  短/a  信/n  -/n  商城/n  -/n  搜索/vn  -/n  新闻/n  -/n  体育/n  -/n  财经/n  -/n  IT/n  -/n  娱乐/vn  圈/n  -/n  女人/n  -/n  生活/vn  -/n  健康/a  -/n  汽车/n  -/n  房产/n  -/n  旅游/vn  -/n  教育/vn  -/n  出国/vn  -/n  求职/vn  -/n  动/v  漫/v  -/n  校友/n  录/nr  
+体育/n  新闻/n  -/n  中国/ns  足球/n  -/n  国际/n  足坛/n  -/n  足/a  彩/Ng  -/n  篮球/n  -/n  棋牌/n  -/n  综合/vn  体育/n  -/n  滚动/vn  -/n  图片/n  -/n  体育/n  漫画/n  -/n  狐/n  说/v  八/m  道/q  -/n  约会/v  
+男足/n  赛程/n  战报/n  
+27日/t  15/m  :/n  30/m  中国/ns  4/m  -/n  0/m  土/n  库/n  曼/a  
+30日/t  18/m  :/n  00/m  中国/ns  3/m  -/n  0/m  孟加拉/n  
+3日/t  18/m  :/n  00/m  中国/ns  2/m  -/n  0/m  印度/ns  
+女足赛/j  程/nr  战报/n  
+2日/t  12/m  :/n  00/m  中国/ns  台北/ns  0/m  -/n  1/m  中国/ns  
+4日/t  18/m  :/n  20/m  中国/ns  0/m  -/n  0/m  朝鲜/ns  
+7日/t  12/m  :/n  00/m  中国/ns  4/m  -/n  1/m  越南/ns  
+9日/t  16/m  :/n  00/m  中国/ns  2/m  -/n  2/m  日本/ns  
+11日/t  16/m  :/n  00/m  韩国/ns  -/n  中国/ns  
+中国/ns  男足/n  阵容/n  
