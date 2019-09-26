@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f9c77299-98cb-4fef-8a07-5848a7f9b332" name="Default Changelist" comment="" />
+    <list default="true" id="f9c77299-98cb-4fef-8a07-5848a7f9b332" name="Default Changelist" comment="First version of word-segmentation program.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,8 +29,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/MM.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-646">
-              <caret line="15" column="28" lean-forward="true" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+            <state relative-caret-position="209">
+              <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -54,6 +56,9 @@
       <replace>delimiter</replace>
     </replaceStrings>
   </component>
+  <component name="Git.Rebase.Settings">
+    <option name="ONTO" value="refs/heads/master" />
+  </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
@@ -65,6 +70,13 @@
     </option>
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="578118a2afc6e9081034eaf429f8f13c1fc6a344" />
+      </map>
+    </option>
+    <option name="RESET_MODE" value="MIXED" />
+    <option name="SIGN_OFF_COMMIT" value="true" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -95,7 +107,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -105,26 +116,20 @@
             </path>
             <path>
               <item name="文本分词" type="b2602c69:ProjectViewProjectNode" />
-              <item name="文本分词" type="462c0819:PsiDirectoryNode" />
-              <item name="result" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="文本分词" type="b2602c69:ProjectViewProjectNode" />
-              <item name="文本分词" type="462c0819:PsiDirectoryNode" />
-              <item name="result" type="462c0819:PsiDirectoryNode" />
-              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="MANAGE_IGNORE_FILES_PROPERTY" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="D:/01_Program Files (x86)/Git/bin/git.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
@@ -232,8 +237,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.MM" />
+        <item itemvalue="Python.utils" />
         <item itemvalue="Python.test" />
+        <item itemvalue="Python.MM" />
         <item itemvalue="Python.evaluate" />
         <item itemvalue="Python.utils" />
       </list>
@@ -260,6 +266,9 @@
       <workItem from="1557668274464" duration="247000" />
       <workItem from="1557796969919" duration="1065000" />
       <workItem from="1557840932785" duration="8323000" />
+      <workItem from="1557850184508" duration="1646000" />
+      <workItem from="1557852044304" duration="1179000" />
+      <workItem from="1557920460588" duration="44000" />
     </task>
     <task id="LOCAL-00001" summary="First version of word-segmentation program.">
       <created>1557850019964</created>
@@ -268,11 +277,18 @@
       <option name="project" value="LOCAL" />
       <updated>1557850019964</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="First version of word-segmentation program.">
+      <created>1557850313720</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1557850313720</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="87373000" />
+    <option name="totallyTimeSpent" value="90242000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -286,7 +302,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49881798" visible="true" weight="0.22617246" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49881798" visible="true" weight="0.23676248" />
       <window_info id="Structure" order="1" sideWeight="0.501182" side_tool="true" weight="0.21104388" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -295,13 +311,13 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39938557" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32872504" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49621785" weight="0.3276923" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="8" sideWeight="0.48789713" visible="true" weight="0.3276923" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="10" sideWeight="0.50075644" side_tool="true" visible="true" weight="0.3276923" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49924356" weight="0.3276923" />
-      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5121029" side_tool="true" visible="true" weight="0.3276923" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49319214" weight="0.3276923" />
+      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.49621785" weight="0.3276923" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -314,6 +330,46 @@
   </component>
   <component name="UpdateCopyrightCheckinHandler">
     <option name="UPDATE_COPYRIGHT" value="true" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First version of word-segmentation program." />
@@ -492,8 +548,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/MM.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-646">
-          <caret line="15" column="28" lean-forward="true" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+        <state relative-caret-position="209">
+          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
         </state>
       </provider>
     </entry>
