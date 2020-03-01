@@ -63,6 +63,7 @@ def Test_MM():
     d_dict = get_dict("dict.txt")
     MM_test(max_len=get_max_len(d_dict), _dict=d_dict)
 
+
 Test_MM()
 
 # def main():

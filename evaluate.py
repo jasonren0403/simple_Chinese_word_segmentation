@@ -83,7 +83,7 @@ def get_performance_score(trained_text=None, predicted_text=None, beta=1):
 
 
 def main():
-    import sys,os
+    import sys, os
     sys.stdout = Logger(".\\result\\evaluate_log.txt")
     data_path = ".\\result\\train"
     standard_path = ".\\result\\example\\seg"
